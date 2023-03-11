@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SabrineChahed
 - 👀 I’m interested in coding "eatSleepCodeRepeat"
-- 🌱 I’m currently learning Web dev 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me  
 sabrine.chahed@ensia.edu.dz 
-sabrinchahed@gmail.com 
+sabrine.chahed19chahed@gmail.com 
 
 <!---
 SabrineChahed/SabrineChahed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
