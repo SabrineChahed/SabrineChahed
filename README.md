@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrineChahed
 - 👀 I’m interested in coding "eatSleepCodeRepeat"
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me  
 sabrine.chahed@ensia.edu.dz 
 sabrine.chahed19chahed@gmail.com 
